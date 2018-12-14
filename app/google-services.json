@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244119449267",
+    "firebase_url": "https://carregistration.firebaseio.com",
+    "project_id": "carregistration",
+    "storage_bucket": "carregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244119449267:android:8db47ce7689f1ec9",
+        "android_client_info": {
+          "package_name": "com.mobileapps.carregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244119449267-mn3ml0ee52mm0do1h6ad4se47p3df30n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileapps.carregistration",
+            "certificate_hash": "b10e211fa968f817a79651957e5c455f0adfea55"
+          }
+        },
+        {
+          "client_id": "244119449267-i3gfm38nm2q0d4vefmkiuitve5vppgds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XS_lF2ILKqAqTI-Y6gUVRC8jNT6R6U0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244119449267-i3gfm38nm2q0d4vefmkiuitve5vppgds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
